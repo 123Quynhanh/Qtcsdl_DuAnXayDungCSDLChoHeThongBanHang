@@ -20,7 +20,7 @@ Vấn đề mà dự án giải quyết là **quản lý dữ liệu bán hàng,
 
 ## 🛠 Công cụ & Công nghệ
 - **SQL Server** – xây dựng và quản lý cơ sở dữ liệu.  
-- **Draw.io / Camunda** – mô hình hóa dữ liệu và quy trình nghiệp vụ.  
+- **Draw.io** – mô hình hóa dữ liệu và quy trình nghiệp vụ.  
 - **Visual Studio Code** – phát triển script SQL / module.  
 - **Microsoft Azure** – lưu trữ và backup dữ liệu.  
 
