@@ -1,5 +1,7 @@
 # 🛒 Xây dựng Cơ sở Dữ liệu cho Hệ thống Bán hàng
 
+**Thời gian:** 01/09/2024 – 21/12/2024  
+**Số lượng thành viên:** 5
 ## 📌 Mô tả dự án
 Dự án tập trung vào **xây dựng cơ sở dữ liệu cho hệ thống bán hàng của cửa hàng tạp hóa**, đảm bảo **quản lý dữ liệu hiệu quả, bảo mật, sao lưu và phòng chống SQL Injection**.  
 Vai trò dự án bao gồm: **thiết kế và triển khai database, phát triển các module xử lý nghiệp vụ, xây dựng cơ chế bảo mật và backup dữ liệu**.  
